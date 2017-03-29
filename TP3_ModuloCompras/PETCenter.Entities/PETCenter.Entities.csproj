@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{200B946D-A063-4A8B-9ACD-4A08F5017AA6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PETCenter.Entities</RootNamespace>
+    <AssemblyName>PETCenter.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\Common.cs" />
+    <Compile Include="Common\Constant.cs" />
+    <Compile Include="Common\Transaction.cs" />
+    <Compile Include="Compras\Area.cs" />
+    <Compile Include="Compras\CollectionEmpleado.cs" />
+    <Compile Include="Compras\CollectionArea.cs" />
+    <Compile Include="Compras\CollectionEvaluacionProveedor.cs" />
+    <Compile Include="Compras\CollectionGenerador.cs" />
+    <Compile Include="Compras\CollectionIncidenciaEvaluacion.cs" />
+    <Compile Include="Compras\CollectionIncidenciaProveedor.cs" />
+    <Compile Include="Compras\CollectionOrdenCompra.cs" />
+    <Compile Include="Compras\CollectionOrdenCompraEvaluacion.cs" />
+    <Compile Include="Compras\CollectionRecursoProveedor.cs" />
+    <Compile Include="Compras\CollectionSolicitudRecursos.cs" />
+    <Compile Include="Compras\CollectionPresentacionRecurso.cs" />
+    <Compile Include="Compras\CollectionItemSolicitudRecurso.cs" />
+    <Compile Include="Compras\CollectionRecurso.cs" />
+    <Compile Include="Compras\CollectionProveedores.cs" />
+    <Compile Include="Compras\Empleado.cs" />
+    <Compile Include="Compras\EvaluacionProveedor.cs" />
+    <Compile Include="Compras\Generador.cs" />
+    <Compile Include="Compras\IncidenciaEvaluacion.cs" />
+    <Compile Include="Compras\IncidenciaProveedor.cs" />
+    <Compile Include="Compras\ItemSolicitudRecurso.cs" />
+    <Compile Include="Compras\OrdenCompra.cs" />
+    <Compile Include="Compras\OrdenCompraEvaluacion.cs" />
+    <Compile Include="Compras\PlanCompra.cs" />
+    <Compile Include="Compras\RecursoProveedor.cs" />
+    <Compile Include="Compras\PresentacionRecurso.cs" />
+    <Compile Include="Compras\Presupuesto.cs" />
+    <Compile Include="Compras\Recurso.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seguridad\Option.cs" />
+    <Compile Include="Compras\Proveedor.cs" />
+    <Compile Include="Seguridad\Usuario.cs" />
+    <Compile Include="Compras\SolicitudRecurso.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

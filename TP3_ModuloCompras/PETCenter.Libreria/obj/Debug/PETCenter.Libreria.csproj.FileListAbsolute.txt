@@ -1,0 +1,29 @@
+F:\Data\DEV\UPC\TP\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.dll
+F:\Data\DEV\UPC\TP\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.pdb
+F:\Data\DEV\UPC\TP\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.csprojResolveAssemblyReference.cache
+F:\Data\DEV\UPC\TP\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.dll
+F:\Data\DEV\UPC\TP\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.pdb
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Fuentes y BD\TP\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.dll
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Fuentes y BD\TP\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.pdb
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Fuentes y BD\TP\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.dll
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Fuentes y BD\TP\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.pdb
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Fuentes y BD\TP\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.csprojResolveAssemblyReference.cache
+F:\Data\DEV\UPC\ClinicaVeterinaria\Modulo Proveedores y Compras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.dll
+F:\Data\DEV\UPC\ClinicaVeterinaria\Modulo Proveedores y Compras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.pdb
+F:\Data\DEV\UPC\ClinicaVeterinaria\Modulo Proveedores y Compras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.dll
+F:\Data\DEV\UPC\ClinicaVeterinaria\Modulo Proveedores y Compras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.pdb
+F:\Data\DEV\UPC\ClinicaVeterinaria\Modulo Proveedores y Compras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 6\Modulo Proveedores y Compras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.dll
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 6\Modulo Proveedores y Compras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.pdb
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 6\Modulo Proveedores y Compras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.dll
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 6\Modulo Proveedores y Compras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.pdb
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 8\TP3_ModuloCompras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.dll
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 8\TP3_ModuloCompras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.pdb
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 8\TP3_ModuloCompras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 8\TP3_ModuloCompras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.dll
+C:\Users\Israel\Documents\UPC\Taller de Proyectos 3\Version 8\TP3_ModuloCompras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.pdb
+D:\UPC\TP3\FUENTE Y BD-20170322T030135Z-001\FUENTE Y BD\Version 8.1\Version 8\TP3_ModuloCompras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.dll
+D:\UPC\TP3\FUENTE Y BD-20170322T030135Z-001\FUENTE Y BD\Version 8.1\Version 8\TP3_ModuloCompras\PETCenter.Libreria\bin\Debug\PETCenter.Libreria.pdb
+D:\UPC\TP3\FUENTE Y BD-20170322T030135Z-001\FUENTE Y BD\Version 8.1\Version 8\TP3_ModuloCompras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.csprojResolveAssemblyReference.cache
+D:\UPC\TP3\FUENTE Y BD-20170322T030135Z-001\FUENTE Y BD\Version 8.1\Version 8\TP3_ModuloCompras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.dll
+D:\UPC\TP3\FUENTE Y BD-20170322T030135Z-001\FUENTE Y BD\Version 8.1\Version 8\TP3_ModuloCompras\PETCenter.Libreria\obj\Debug\PETCenter.Libreria.pdb
